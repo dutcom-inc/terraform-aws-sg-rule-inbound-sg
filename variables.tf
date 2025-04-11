@@ -38,10 +38,6 @@ variable "description" {
   type = string
 }
 
-variable "aws_vpc_id" {
-  type = string
-}
-
 variable "from_port" {
   type = string
 }
